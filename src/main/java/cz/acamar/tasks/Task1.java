@@ -17,6 +17,28 @@ public class Task1 {
      * @return - the length of the last word in the string.
      */
     public int lengthOfLastWord(String str) {
-        return 0;
+        //  str = str.stripTrailing(); // JAVA 11
+        int count = 0;
+        boolean space = true;
+        for (int i = str.length() -1 ; i>=0;i-- )
+        {
+            if (space){
+                if(str.charAt(i) != ' ')
+                {
+                    count++;
+                    space = false;
+                }
+            }
+            else {
+                if(str.charAt(i) == ' ')
+                {
+                    break;
+                }
+                count++;
+            }
+
+        }
+
+        return count;
     }
 }
