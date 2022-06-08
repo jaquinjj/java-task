@@ -8,14 +8,14 @@
 
 #### Task 1. Length of the last word.
 
-![Test Image 4](https://raw.githubusercontent.com/jaquinjj/java-task/master/TaskResult1.PNG)
+![Task Result 1](https://raw.githubusercontent.com/jaquinjj/java-task/master/TaskResult1.PNG)
 
 
 #### Task 2. Squares of a sorted array.
-![Test Image 4](https://raw.githubusercontent.com/jaquinjj/java-task/master/TaskResult1.PNG)
+![Task Result 2](https://raw.githubusercontent.com/jaquinjj/java-task/master/TaskResult2.PNG)
 
 ### Code Coverage
-![Test Image 4](https://raw.githubusercontent.com/jaquinjj/java-task/master/Coverage.PNG)
+![Coverage](https://raw.githubusercontent.com/jaquinjj/java-task/master/Coverage.PNG)
 
 
 
